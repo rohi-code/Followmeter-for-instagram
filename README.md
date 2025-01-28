@@ -1,10 +1,10 @@
 # Followmeter-for-instagram
 
-**Project Overview:**
+## Project Overview:
 
 This project aims to develop a third-party web application that helps Instagram users gain a deeper understanding of their profile activity. By using the app, users can identify several aspects of their Instagram account that aren’t readily available through Instagram’s native interface. The app will display key metrics such as who isn’t following back, users who have blocked the account, new followers, and more. It will offer a clear overview of a user's relationship with their followers and interactions, enhancing social media management.
 
-**Key Features:**
+## Key Features:
 
 Unfollow Tracker: Displays users who are not following back.
 
@@ -19,7 +19,7 @@ New Followers Tracker: Displays newly gained followers over a specific time peri
 Instagram Profile Integration: Securely connects to Instagram accounts via OAuth for easy data fetching.
 
 
-**Tech Stack:**
+## Tech Stack:
 
 
 
@@ -47,7 +47,7 @@ Others:
 Instagram API (or third-party APIs) for fetching the user’s profile data
 
 
-**Why This Project:**
+## Why This Project:
 
 
 I chose this project because it combines both a useful functionality and the potential for learning new skills in web development. Instagram is one of the most popular social media platforms, and many users are often interested in tracking and managing their followers and interactions in a more efficient way. This app would cater to those needs, giving them a comprehensive view of their Instagram profile.
